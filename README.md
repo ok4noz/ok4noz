@@ -1,4 +1,4 @@
-# <p align="center">Hi 👋, I'm ok4noz</p>
+# <p align="center">Hi 👋, I'm Okan</p>
 
 ### <p align="center">A dedicated Minecraft plugin & backend developer from Turkey</p>
 
