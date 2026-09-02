@@ -1,6 +1,10 @@
-# <p align="center">Hi 👋, I'm Okan</p>
+# <p align="center">Hi 👋, I'm ok4noz</p>
 
 ### <p align="center">A dedicated Minecraft plugin & backend developer from Turkey</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ok4noz&label=Profile%20Views&color=5865F2&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
