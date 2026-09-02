@@ -1,11 +1,11 @@
 # <p align="center">Hi 👋, I'm ok4noz</p>
 
-### <p align="center">A dedicated Minecraft plugin & Java developer from Turkey</p>
+### <p align="center">A dedicated Minecraft plugin & backend developer from Turkey</p>
 
 ---
 
 - 👨‍💻 All of my public plugins and open-source projects are available on my [GitHub](https://github.com/ok4noz).
-- ⚡ Focused on high-performance Paper/Spigot systems, clean APIs, and competitive server features.
+- ⚡ Focused on high-performance Paper/Spigot systems, backend APIs, and competitive server features.
 - 📫 How to reach me: **ok4noz** on Discord or via Instagram.
 
 ### Connect with me:
@@ -22,9 +22,11 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 </p>
